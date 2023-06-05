@@ -1,0 +1,31 @@
+/* color #3766ff */
+.topbar {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 8px 16px;
+   background-color: #3766ff;
+   color: white;
+   height: 10vh;
+}
+
+.icon_wrapper {
+  margin-top: 20px;
+  margin-right: 8px;
+}
+
+.icon_wrapper svg {
+  width: 24px;
+  height: 24px;
+}
+
+.select_wrapper {
+  margin-top: 20px;
+  margin-right: 8px;
+}
+
+.select_wrapper .ant-typography-link {
+  display: flex;
+  align-items: center;
+}
+  
